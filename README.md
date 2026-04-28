@@ -1,10 +1,11 @@
 <div align="center">
-<img src="image/logo.png" alt="logo" style="zoom:25%;" />
+<img src="image/logo.png" alt="logo" style="zoom:%;" />
+
 
 
 # Palind.skill
 
-这是我用来润色写作的 skill。
+这是我用来润色写作的 skill。使用 [同事.skill](https://github.com/titanwings/colleague-skill) 蒸馏。
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-black.svg)](https://github.com/openai/codex)
 [![Language: zh-CN](https://img.shields.io/badge/language-zh--CN-red.svg)](#)
