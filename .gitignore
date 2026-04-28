@@ -1,0 +1,17 @@
+private/
+.dot-skill-tmp/
+versions/
+
+# Potentially large or private collection outputs.
+knowledge/docs/
+knowledge/messages/
+knowledge/emails/
+knowledge/subtitles/
+knowledge/transcripts/
+knowledge/research/reviews/
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

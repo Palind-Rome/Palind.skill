@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1",
+  "id": "skill.writing-style.palind",
+  "kind": "codex-skill",
+  "display_name": "Palind Style",
+  "language": "zh-CN",
+  "entrypoints": {
+    "default": "SKILL.md",
+    "work": "work_skill.md",
+    "persona": "persona_skill.md"
+  },
+  "artifacts": [
+    "SKILL.md",
+    "work.md",
+    "persona.md",
+    "work_skill.md",
+    "persona_skill.md",
+    "meta.json",
+    "manifest.json"
+  ],
+  "capabilities": [
+    "writing-style",
+    "persona",
+    "longform-writing"
+  ],
+  "install": {
+    "compatible_runtimes": [
+      "codex"
+    ],
+    "slash_commands": {
+      "default": "palind-style",
+      "work": "palind-style-work",
+      "persona": "palind-style-persona"
+    }
+  }
+}

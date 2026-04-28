@@ -1,0 +1,74 @@
+{
+  "schema_version": "open-source-1",
+  "name": "Palind Style",
+  "display_name": "Palind Style",
+  "slug": "palind-style",
+  "kind": "writing-style-skill",
+  "language": "zh-CN",
+  "summary": "Palind 写作风格 Skill，用于生成中文第一人称回忆散文、校园叙事、技术时代怀旧叙事和带回调结构的幽默长文。",
+  "classification": {
+    "category": "Writing Style",
+    "tags": [
+      "写作风格",
+      "知乎长文",
+      "回忆叙事",
+      "校园经验",
+      "技术幽默",
+      "LLM"
+    ]
+  },
+  "profile": {
+    "identity": "知乎用户 / 中文长文作者",
+    "occupation": "学生视角的技术与成长叙事写作者",
+    "known_for": "把校园记忆、计算机启蒙、二次元互联网经验和 LLM 时代体验写成带回环结构的幽默长文"
+  },
+  "artifacts": {
+    "combined_skill": "SKILL.md",
+    "work_doc": "work.md",
+    "persona_doc": "persona.md",
+    "work_skill": "work_skill.md",
+    "persona_skill": "persona_skill.md",
+    "manifest": "manifest.json",
+    "combined_name": "palind_style",
+    "work_name": "palind_style_work",
+    "persona_name": "palind_style_persona",
+    "combined_command": "palind-style",
+    "work_command": "palind-style-work",
+    "persona_command": "palind-style-persona"
+  },
+  "knowledge_sources": [
+    {
+      "path": "local:source-a-not-distributed",
+      "type": "user_provided_local_article",
+      "note": "高中食堂、楼梯、身高与暗恋叙事"
+    },
+    {
+      "path": "local:source-b-not-distributed",
+      "type": "user_provided_local_article",
+      "note": "语文老师、高考、强基、编程启蒙与 LLM agent 互文"
+    },
+    {
+      "path": "local:source-c-not-distributed",
+      "type": "user_provided_local_article",
+      "note": "小学大院、饭卡烧饼、图灵社、早期互联网与 LLM agent 叙事"
+    }
+  ],
+  "source_context": {
+    "domain": "public writing",
+    "relationship_to_user": "public writer style reference",
+    "is_real_person": true,
+    "is_public_figure": false,
+    "is_fictional": false
+  },
+  "lifecycle": {
+    "status": "active",
+    "version": "v1",
+    "created_at": "2026-04-28",
+    "updated_at": "2026-04-28"
+  },
+  "limitations": [
+    "Original full-text source articles are not distributed in this repository.",
+    "This skill models writing methods and rhythm, not Palind's actual personal views.",
+    "External URL grounding is intentionally absent in this public release."
+  ]
+}
