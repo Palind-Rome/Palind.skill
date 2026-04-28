@@ -1,5 +1,5 @@
 <div align="center">
-<img src="image/logo.png" alt="logo" style="zoom:%;" />
+<img src="image/logo1.png" alt="logo" style="zoom:%;" />
 
 
 
