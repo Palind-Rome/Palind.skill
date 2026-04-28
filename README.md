@@ -10,7 +10,7 @@
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-black.svg)](https://github.com/openai/codex)
 [![Language: zh-CN](https://img.shields.io/badge/language-zh--CN-red.svg)](#)
 
-[快速开始](#-快速开始) · [使用示例](#-使用示例) · [仓库结构](#-仓库结构) · [文档导航](#-文档导航) · [来源与限制](#-来源与限制)
+[快速开始](#-快速开始) · [使用示例](#-使用示例) · [仓库结构](#-仓库结构) · [文档导航](#-文档导航)
 
 </div>
 
